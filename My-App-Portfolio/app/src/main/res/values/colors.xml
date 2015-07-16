@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="material_deep_teal_50" type="color">#E0F2F1</item>
+    <item name="white" type="color">#ffffff</item>
+    <item name="black" type="color">#000000</item>
+
+    <integer-array name="android_colors">
+        <item>@color/material_deep_teal_50</item>
+        <item>@color/white</item>
+        <item>@color/black</item>
+    </integer-array>
+</resources>
